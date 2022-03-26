@@ -35,4 +35,12 @@ body{
     color: aliceblue;
 
 }
+.half-side p{
+    position: relative;
+    font-size: 20px;
+}
+.half-side a{
+    position: absolute;
+    top: 650px;
+}
 

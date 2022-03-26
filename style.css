@@ -1,0 +1,38 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.first-section{
+    display: flex;
+    padding: 70px;
+}
+#skip{
+    color: rgb(247, 176, 45);
+}
+.text-color{
+    color: rgb(177, 168, 153);
+}
+.half-side{
+    width: 50%;
+}
+.half-side h1{
+    font-size: 60px;
+    
+}
+.first-img{
+    width: 80%;
+    padding-right: 60px ;
+    
+}
+.order-link{
+    text-decoration: none;
+    background-image: linear-gradient(orange , red);
+    padding: 20px 45px;
+    border-radius: 50px;
+    border-top: 200px;
+    font-weight: 600;
+    color: aliceblue;
+
+}
+
